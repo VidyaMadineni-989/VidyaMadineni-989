@@ -1,12 +1,11 @@
 # 👋 Hello! I'm Vidhya Madineni
 
-🎓 Artificial Intelligence Engineering Student  
-💻 Java Full Stack & MERN Developer  
+🎓 Artificial Intelligence Engineering Student   
 🧠 Passionate about Machine Learning, Problem Solving & Tech
 
 ---
 
-## 🔧 Tech Stack:
+## 💻 Tech Stack:
 
 **Languages:**  
 ![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white)
@@ -32,9 +31,5 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/vidya-madineni)  
 [![GitHub](https://img.shields.io/badge/GitHub-grey?logo=github)](https://github.com/VidyaMadineni-989)
 
----
 
-## 🌱 Currently Learning:
-- DevOps (Docker, Kubernetes)
-- Cloud Automation Tools (Terraform, Ansible)
 
